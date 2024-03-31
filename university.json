@@ -1,0 +1,707 @@
+[
+    {
+        "university": "영남대"
+    },
+    {
+        "university": "경주대"
+    },
+    {
+        "university": "삼육대"
+    },
+    {
+        "university": "경운대"
+    },
+    {
+        "university": "한신대"
+    },
+    {
+        "university": "영산대(양산)"
+    },
+    {
+        "university": "한국전통문화대"
+    },
+    {
+        "university": "한국외대(글로벌)"
+    },
+    {
+        "university": "광주교대"
+    },
+    {
+        "university": "광주여대"
+    },
+    {
+        "university": "동양대(동두천)"
+    },
+    {
+        "university": "서울여대"
+    },
+    {
+        "university": "영산대(부산)"
+    },
+    {
+        "university": "성공회대"
+    },
+    {
+        "university": "초당대"
+    },
+    {
+        "university": "신라대"
+    },
+    {
+        "university": "상지대"
+    },
+    {
+        "university": "총신대"
+    },
+    {
+        "university": "서울대"
+    },
+    {
+        "university": "한라대"
+    },
+    {
+        "university": "한밭대"
+    },
+    {
+        "university": "청운대(홍성)"
+    },
+    {
+        "university": "덕성여대"
+    },
+    {
+        "university": "차의과학대"
+    },
+    {
+        "university": "한국교통대(충주)"
+    },
+    {
+        "university": "가톨릭대(성심)"
+    },
+    {
+        "university": "중앙대(안성)"
+    },
+    {
+        "university": "한국성서대"
+    },
+    {
+        "university": "서울시립대"
+    },
+    {
+        "university": "을지대(성남)"
+    },
+    {
+        "university": "경인교대"
+    },
+    {
+        "university": "신한대(의정부)"
+    },
+    {
+        "university": "서울장신대"
+    },
+    {
+        "university": "신한대(동두천)"
+    },
+    {
+        "university": "육군사관학교"
+    },
+    {
+        "university": "금오공과대"
+    },
+    {
+        "university": "김천대"
+    },
+    {
+        "university": "가톨릭대(성신)"
+    },
+    {
+        "university": "인제대(김해)"
+    },
+    {
+        "university": "중부대(고양)"
+    },
+    {
+        "university": "중앙대(서울)"
+    },
+    {
+        "university": "진주교대"
+    },
+    {
+        "university": "한국기술교육대"
+    },
+    {
+        "university": "강원대(삼척)"
+    },
+    {
+        "university": "대구대"
+    },
+    {
+        "university": "공군사관학교"
+    },
+    {
+        "university": "전남대(광주)"
+    },
+    {
+        "university": "국군간호사관학교"
+    },
+    {
+        "university": "명지대(용인)"
+    },
+    {
+        "university": "한성대"
+    },
+    {
+        "university": "세명대"
+    },
+    {
+        "university": "배재대"
+    },
+    {
+        "university": "한서대"
+    },
+    {
+        "university": "남부대"
+    },
+    {
+        "university": "경남과학기술대"
+    },
+    {
+        "university": "홍익대(세종)"
+    },
+    {
+        "university": "충남대"
+    },
+    {
+        "university": "호서대(아산)"
+    },
+    {
+        "university": "고려대(서울)"
+    },
+    {
+        "university": "동명대"
+    },
+    {
+        "university": "동서대"
+    },
+    {
+        "university": "군산대"
+    },
+    {
+        "university": "호원대"
+    },
+    {
+        "university": "광운대"
+    },
+    {
+        "university": "숭실대"
+    },
+    {
+        "university": "한국외대(서울)"
+    },
+    {
+        "university": "성결대"
+    },
+    {
+        "university": "아세아연합신학대"
+    },
+    {
+        "university": "인천대"
+    },
+    {
+        "university": "경동대(원주문막)"
+    },
+    {
+        "university": "경남대"
+    },
+    {
+        "university": "부산외국어대"
+    },
+    {
+        "university": "서울교대"
+    },
+    {
+        "university": "광주대"
+    },
+    {
+        "university": "호남대"
+    },
+    {
+        "university": "홍익대(서울)"
+    },
+    {
+        "university": "우석대(진천)"
+    },
+    {
+        "university": "동아대"
+    },
+    {
+        "university": "아주대"
+    },
+    {
+        "university": "GIST"
+    },
+    {
+        "university": "한림대"
+    },
+    {
+        "university": "송원대"
+    },
+    {
+        "university": "강릉원주대(강릉)"
+    },
+    {
+        "university": "평택대"
+    },
+    {
+        "university": "가톨릭대(성의)"
+    },
+    {
+        "university": "동국대(경주)"
+    },
+    {
+        "university": "건국대(서울)"
+    },
+    {
+        "university": "호서대(천안)"
+    },
+    {
+        "university": "원광대"
+    },
+    {
+        "university": "조선대"
+    },
+    {
+        "university": "한국예술종합학교"
+    },
+    {
+        "university": "경기대(서울)"
+    },
+    {
+        "university": "동덕여대"
+    },
+    {
+        "university": "공주교대"
+    },
+    {
+        "university": "대구예술대"
+    },
+    {
+        "university": "경희대(서울)"
+    },
+    {
+        "university": "대구교대"
+    },
+    {
+        "university": "침례신학대"
+    },
+    {
+        "university": "신경대"
+    },
+    {
+        "university": "세한대(영암)"
+    },
+    {
+        "university": "남서울대"
+    },
+    {
+        "university": "서경대"
+    },
+    {
+        "university": "대진대"
+    },
+    {
+        "university": "한세대"
+    },
+    {
+        "university": "가톨릭관동대"
+    },
+    {
+        "university": "가야대"
+    },
+    {
+        "university": "추계예술대"
+    },
+    {
+        "university": "국민대"
+    },
+    {
+        "university": "나사렛대"
+    },
+    {
+        "university": "경희대(국제)"
+    },
+    {
+        "university": "경북대(대구)"
+    },
+    {
+        "university": "전북대(특성화)"
+    },
+    {
+        "university": "한려대"
+    },
+    {
+        "university": "서강대"
+    },
+    {
+        "university": "백석대"
+    },
+    {
+        "university": "한국국제대"
+    },
+    {
+        "university": "한국교통대(증평)"
+    },
+    {
+        "university": "강원대(도계)"
+    },
+    {
+        "university": "계명대"
+    },
+    {
+        "university": "유원대"
+    },
+    {
+        "university": "경상대"
+    },
+    {
+        "university": "중부대(충청)"
+    },
+    {
+        "university": "부산대"
+    },
+    {
+        "university": "인제대(부산)"
+    },
+    {
+        "university": "이화여대"
+    },
+    {
+        "university": "한동대"
+    },
+    {
+        "university": "DGIST"
+    },
+    {
+        "university": "건양대(논산)"
+    },
+    {
+        "university": "용인대"
+    },
+    {
+        "university": "단국대(천안)"
+    },
+    {
+        "university": "한경대"
+    },
+    {
+        "university": "청주대"
+    },
+    {
+        "university": "공주대(공주)"
+    },
+    {
+        "university": "고신대"
+    },
+    {
+        "university": "전남대(여수)"
+    },
+    {
+        "university": "목원대"
+    },
+    {
+        "university": "목포해양대"
+    },
+    {
+        "university": "KAIST"
+    },
+    {
+        "university": "경일대"
+    },
+    {
+        "university": "경동대(양주)"
+    },
+    {
+        "university": "부산가톨릭대"
+    },
+    {
+        "university": "부산교대"
+    },
+    {
+        "university": "성균관대"
+    },
+    {
+        "university": "창신대"
+    },
+    {
+        "university": "KC대"
+    },
+    {
+        "university": "순천대"
+    },
+    {
+        "university": "한남대"
+    },
+    {
+        "university": "UNIST"
+    },
+    {
+        "university": "경성대"
+    },
+    {
+        "university": "동양대(영주)"
+    },
+    {
+        "university": "가천대(메디컬)"
+    },
+    {
+        "university": "호서대(당진)"
+    },
+    {
+        "university": "충북대"
+    },
+    {
+        "university": "예수대"
+    },
+    {
+        "university": "연세대(서울)"
+    },
+    {
+        "university": "경북대(상주)"
+    },
+    {
+        "university": "전주교대"
+    },
+    {
+        "university": "제주대"
+    },
+    {
+        "university": "창원대"
+    },
+    {
+        "university": "동신대"
+    },
+    {
+        "university": "한일장신대"
+    },
+    {
+        "university": "을지대(대전)"
+    },
+    {
+        "university": "상명대(천안)"
+    },
+    {
+        "university": "강남대"
+    },
+    {
+        "university": "강릉원주대(원주)"
+    },
+    {
+        "university": "동의대"
+    },
+    {
+        "university": "순천향대"
+    },
+    {
+        "university": "동국대(서울)"
+    },
+    {
+        "university": "예원예술대(전북)"
+    },
+    {
+        "university": "예원예술대(양주)"
+    },
+    {
+        "university": "우석대(완주)"
+    },
+    {
+        "university": "선문대"
+    },
+    {
+        "university": "공주대(예산)"
+    },
+    {
+        "university": "인천가톨릭대(송도)"
+    },
+    {
+        "university": "제주국제대"
+    },
+    {
+        "university": "한국체육대"
+    },
+    {
+        "university": "인하대"
+    },
+    {
+        "university": "울산대"
+    },
+    {
+        "university": "공주대(천안)"
+    },
+    {
+        "university": "장로회신학대"
+    },
+    {
+        "university": "안양대(강화)"
+    },
+    {
+        "university": "서울한영대"
+    },
+    {
+        "university": "세한대(당진)"
+    },
+    {
+        "university": "경동대(고성)"
+    },
+    {
+        "university": "단국대(죽전)"
+    },
+    {
+        "university": "세종대"
+    },
+    {
+        "university": "해군사관학교"
+    },
+    {
+        "university": "한국산업기술대"
+    },
+    {
+        "university": "한양대(에리카)"
+    },
+    {
+        "university": "고려대(세종)"
+    },
+    {
+        "university": "서원대"
+    },
+    {
+        "university": "극동대"
+    },
+    {
+        "university": "대구가톨릭대"
+    },
+    {
+        "university": "서울신학대"
+    },
+    {
+        "university": "한국항공대"
+    },
+    {
+        "university": "성신여대"
+    },
+    {
+        "university": "협성대"
+    },
+    {
+        "university": "서울과학기술대"
+    },
+    {
+        "university": "부경대"
+    },
+    {
+        "university": "춘천교대"
+    },
+    {
+        "university": "경기대(수원)"
+    },
+    {
+        "university": "대전대"
+    },
+    {
+        "university": "한국해양대"
+    },
+    {
+        "university": "가천대(글로벌)"
+    },
+    {
+        "university": "명지대(서울)"
+    },
+    {
+        "university": "상명대(서울)"
+    },
+    {
+        "university": "서울기독대"
+    },
+    {
+        "university": "안양대(안양)"
+    },
+    {
+        "university": "건양대(대전)"
+    },
+    {
+        "university": "목포대"
+    },
+    {
+        "university": "대구한의대"
+    },
+    {
+        "university": "수원대"
+    },
+    {
+        "university": "꽃동네대"
+    },
+    {
+        "university": "대전신학대"
+    },
+    {
+        "university": "전주대"
+    },
+    {
+        "university": "포항공과대"
+    },
+    {
+        "university": "한국교원대"
+    },
+    {
+        "university": "경찰대학"
+    },
+    {
+        "university": "건국대(글로컬)"
+    },
+    {
+        "university": "전북대(전주)"
+    },
+    {
+        "university": "감리교신학대"
+    },
+    {
+        "university": "연세대(미래)"
+    },
+    {
+        "university": "중원대"
+    },
+    {
+        "university": "위덕대"
+    },
+    {
+        "university": "한양대(서울)"
+    },
+    {
+        "university": "우송대"
+    },
+    {
+        "university": "청운대(인천)"
+    },
+    {
+        "university": "목포가톨릭대"
+    },
+    {
+        "university": "한국교통대(의왕)"
+    },
+    {
+        "university": "강원대(춘천)"
+    },
+    {
+        "university": "칼빈대"
+    },
+    {
+        "university": "청주교대"
+    },
+    {
+        "university": "루터대"
+    },
+    {
+        "university": "숙명여대"
+    },
+    {
+        "university": "안동대"
+    }
+]
