@@ -1,7 +1,8 @@
 import googlemaps
+import os
 import json
 
-gmaps_key = 'AIzaSyAyqKvSk2mzMnHVNvTS7Y3kXCGosGmlP1A'  
+gmaps_key = os.environ.get('GOOGLE_API_KEY')
 gmaps = googlemaps.Client(key=gmaps_key)
 
 # 대학 정보가 담긴 JSON 데이터
